@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>full name</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZABAPGIT_TEST_EXTENSION_FUT99</SOBJ_NAME>
+    <SOBJ_NAME>LZABAPGIT_TEST_EXTENSION_FUTOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZABAPGIT_TEST_EXTENSION_FU</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>Z_ABAPGIT_TEST_MOO_BOO_BAR_LOO</FUNCNAME>
+     <SHORT_TEXT>sdf</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
